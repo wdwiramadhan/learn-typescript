@@ -1,0 +1,10 @@
+var age = 12;
+console.log(age);
+age = 'dua belas';
+console.log(age);
+var mixed = [];
+mixed.push('ayay');
+mixed.push(12);
+mixed.push(true);
+mixed.push(['as', 12]);
+console.log(mixed);
