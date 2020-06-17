@@ -5,18 +5,18 @@ let isLoggedIn: boolean;
 
 age = 12;
 fullname = 'andi warhol';
-isLoggedIn = null;
+isLoggedIn = true;
 
 //arrays
 let doscom: string[] = [];
 doscom.push('dinus')
 
 // union types
-let mixed: (string|number|boolean)[] = [];
-mixed.push('choper');
-mixed.push(9);
-mixed.push(true);
-console.log(mixed)
+let mixed3: (string|number|boolean)[] = [];
+mixed3.push('choper');
+mixed3.push(9);
+mixed3.push(true);
+console.log(mixed3)
 
 // object
 
